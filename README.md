@@ -1,8 +1,8 @@
 ### Hey There 👋
 
 - ⚡ Full Stack Developer
-- 💻 My CV? Take a look: amiralibagheri.ir
-- 💬 If you like collaborate for a projrct, just contact me in different social medias
+- 💻 My CV? Take a look: [amiralibagheri.ir](http://amiralibagheri.ir)
+- 💬 If you like collaborate for a project, you might contact me with email and all of social medias 
 - ✔️ Hard work for study and Fighting with the Bugs :)
 
 
