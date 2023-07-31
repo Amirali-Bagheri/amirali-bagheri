@@ -8,6 +8,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Amirali-Bagheri&count_private=true&show_icons=trueradical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/77d8292b-d952-4c3e-95d6-34daa01c9fc2.svg)](https://wakatime.com/@77d8292b-d952-4c3e-95d6-34daa01c9fc2)
 
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
